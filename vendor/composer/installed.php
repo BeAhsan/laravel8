@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '823c256e08bcac76c022d873e9d6a3b9a03fa994',
+    'reference' => '4055a2e853db1e0d389651bcb06d3271c469499d',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -517,7 +517,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '823c256e08bcac76c022d873e9d6a3b9a03fa994',
+      'reference' => '4055a2e853db1e0d389651bcb06d3271c469499d',
     ),
     'laravel/sanctum' => 
     array (
@@ -527,6 +527,15 @@
       array (
       ),
       'reference' => '331bd6572610b06ad6dd6b2a7c15a0465a3ca9c9',
+    ),
+    'laravel/socialite' => 
+    array (
+      'pretty_version' => 'v5.1.1',
+      'version' => '5.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'dc786c41eb3615ca430da3b9aa5c9c0282f7e390',
     ),
     'laravel/tinker' => 
     array (
@@ -563,6 +572,15 @@
       array (
       ),
       'reference' => '353f66d7555d8a90781f6f5e7091932f9a4250aa',
+    ),
+    'league/oauth1-client' => 
+    array (
+      'pretty_version' => 'v1.8.2',
+      'version' => '1.8.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '159c3d2bf27568f9af87d6c3f4bb616a251eb12b',
     ),
     'livewire/livewire' => 
     array (
